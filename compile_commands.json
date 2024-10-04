@@ -1,0 +1,8 @@
+
+[
+    {
+        "directory": "C:/Users/Ahmet/projects/3dRenderer",
+        "command": "g++ -o main -IC:/mingw_libs/include -LC:/mingw_libs/lib -lSDL2main -lSDL2 lSDL2_ttf -lSDL2_image -lopengl32 -lglu32 main.cpp",
+        "file": "main.cpp"
+    }
+]
